@@ -25,7 +25,7 @@ In fact, this tree belongs to the class of model-based recursive partitiong (MOB
 
 ![Weibull_reg](https://user-images.githubusercontent.com/69023373/89116506-5a93c400-d45a-11ea-91f2-4564059aa5f8.png)
 
-# Reference
+# References
 Aalen, O. O. (1989). A linear regression model for the analysis of life times. *Statistics in medicine*, 8(8), 907-925.
 
 Aalen, O. O. (1993). Further results on the non‐parametric linear regression model in survival analysis. *Statistics in medicine*, 12(17), 1569-1588.
